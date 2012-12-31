@@ -1,0 +1,10 @@
+fai 'monsters.fai'
+
+if ( distance_between(me.loc,owner) > 2, move(me.loc,next_hop(me.loc,owner.loc)),
+	if(attack,attack,move(me.loc,me.loc)))
+
+	where attack = choose(filter(enemy_units, distance_between(owner,target) <= target.total_movement),max_possible_damage(target,owner))
+
+	where owner =  find(units, id = index_of('owner',me.abilities))
+
+faiend

@@ -1,0 +1,9 @@
+fai 'petrify.fai'
+
+{AI_CA_COMBAT_SCORE} + 100 + unit_worth +
+
+	if ( target.id = 'Othello', 99999,0)
+
+	where unit_worth = target.hitpoints*target.level+max_possible_damage(target,find(units,id='Randalf'))
+
+faiend

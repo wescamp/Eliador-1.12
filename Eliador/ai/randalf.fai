@@ -1,0 +1,18 @@
+fai 'randalf.fai'
+
+{AI_CA_COMBAT_SCORE} + 500 +
+
+	# do not focus on Othello #
+	if ( target.id = 'Othello', -{AI_CA_COMBAT_SCORE}, 0) +
+
+	# Thiefs are good targets #
+	if ( target.type = 'Thief', 100, 0) +
+
+	if ( target.type = 'Rogue', 200, 0) +
+
+	if ( target.type = 'Assassin', 500, 0) +
+
+	# focus on living first #
+	if ( index_of('not_living',keys(target.states)) != -1, -400, 0)
+
+faiend
