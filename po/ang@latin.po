@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Eliador-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-17 05:15+0100\n"
+"POT-Creation-Date: 2013-03-28 16:51-0400\n"
 "PO-Revision-Date: 2012-10-23 23:04+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -39,22 +39,22 @@ msgid "(Intermediate level, RPG/Puzzle, Total of 12 scenarios)"
 msgstr ""
 
 #. [campaign]: id=campaign_eliador
-#: Eliador/_main.cfg:24
+#: Eliador/_main.cfg:36
 msgid "Skirmisher"
 msgstr ""
 
 #. [campaign]: id=campaign_eliador
-#: Eliador/_main.cfg:24
+#: Eliador/_main.cfg:36
 msgid "(Easy)"
 msgstr ""
 
 #. [campaign]: id=campaign_eliador
-#: Eliador/_main.cfg:26
+#: Eliador/_main.cfg:38
 msgid "(Challenging)"
 msgstr ""
 
 #. [campaign]: id=campaign_eliador
-#: Eliador/_main.cfg:26
+#: Eliador/_main.cfg:38
 msgid "Nightmare"
 msgstr ""
 
@@ -90,7 +90,7 @@ msgid "Suddently one evening..."
 msgstr ""
 
 #. [scenario]: id=eliador-anwar, (id=Zeke, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
-#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, id=Anna}, id=Zeke}, id=Ardella}, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
+#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-battle, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella, (id=Ardella, (id=Zeke
 #. [scenario]: id=eliador-end
 #. [scenario]: id=eliador-glorienda
@@ -130,7 +130,7 @@ msgstr ""
 #: Eliador/scenarios/01_eliador-home.cfg:106
 #: Eliador/scenarios/04_eliador-interlude.cfg:56
 #: Eliador/scenarios/04_eliador-interlude.cfg:68 Eliador/utils/journey.cfg:163
-#: Eliador/utils/utils.cfg:323
+#: Eliador/utils/utils.cfg:272
 msgid "Ardella"
 msgstr ""
 
@@ -348,60 +348,60 @@ msgstr ""
 #. [scenario]: id=eliador-kelroth, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-sinon, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-treasure, (id=Ardella, (id=Anna, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:299
+#: Eliador/scenarios/02a_eliador-sinon.cfg:293
 #: Eliador/scenarios/02c_eliador-anwar.cfg:264
 #: Eliador/scenarios/02d_eliador-treasure.cfg:228
 #: Eliador/scenarios/02h_eliador-kelroth.cfg:208
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:459
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:454
 #: Eliador/scenarios/03_eliador-battle.cfg:693
 #: Eliador/scenarios/04_eliador-interlude.cfg:187
 msgid "Momma!"
 msgstr ""
 
 #. [scenario]: id=eliador-anwar, (id=Zeke, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
-#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, id=Anna}, id=Zeke}, id=Ardella}, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
+#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-battle, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella, (id=Ardella, (id=Zeke
 #. [scenario]: id=eliador-kelroth, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-sinon, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-treasure, (id=Ardella, (id=Anna, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:300
+#: Eliador/scenarios/02a_eliador-sinon.cfg:294
 #: Eliador/scenarios/02c_eliador-anwar.cfg:265
 #: Eliador/scenarios/02d_eliador-treasure.cfg:229
-#: Eliador/scenarios/02e_eliador-balas.cfg:687
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:460
+#: Eliador/scenarios/02e_eliador-balas.cfg:681
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:455
 #: Eliador/scenarios/03_eliador-battle.cfg:691
 msgid "Anna!"
 msgstr ""
 
 #. [scenario]: id=eliador-anwar, (id=Zeke, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
-#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, id=Anna}, id=Zeke}, id=Ardella}, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
+#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-battle, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella, (id=Ardella, (id=Zeke
 #. [scenario]: id=eliador-kelroth, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-sinon, (id=Ardella, (id=Zeke, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #. [scenario]: id=eliador-treasure, (id=Ardella, (id=Anna, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:301
+#: Eliador/scenarios/02a_eliador-sinon.cfg:295
 #: Eliador/scenarios/02c_eliador-anwar.cfg:266
 #: Eliador/scenarios/02d_eliador-treasure.cfg:230
-#: Eliador/scenarios/02e_eliador-balas.cfg:688
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:461
+#: Eliador/scenarios/02e_eliador-balas.cfg:682
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:456
 #: Eliador/scenarios/03_eliador-battle.cfg:692
 msgid "Zeke!"
 msgstr ""
 
 #. [then]: (type=Horseman, (id=Ardella, (type=Horseman, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:364
+#: Eliador/scenarios/02a_eliador-sinon.cfg:351
 msgid "You have risked your lives to save our steeds. Why?"
 msgstr ""
 
 #. [then]: (type=Horseman, (id=Ardella, (type=Horseman, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:365
+#: Eliador/scenarios/02a_eliador-sinon.cfg:352
 msgid ""
 "Because we need every man and beast on this island to fight the enemies "
 "approaching Eliador."
 msgstr ""
 
 #. [then]: (type=Horseman, (id=Ardella, (type=Horseman, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:366
+#: Eliador/scenarios/02a_eliador-sinon.cfg:353
 msgid ""
 "We have never backed down from a fight, so we will help you. But we have "
 "seen the number of galleons. Why don't you take your children off this "
@@ -409,7 +409,7 @@ msgid ""
 msgstr ""
 
 #. [then]: (type=Horseman, (id=Ardella, (type=Horseman, (id=Zeke
-#: Eliador/scenarios/02a_eliador-sinon.cfg:367
+#: Eliador/scenarios/02a_eliador-sinon.cfg:354
 msgid "Because they took my papa!"
 msgstr ""
 
@@ -603,28 +603,28 @@ msgstr ""
 msgid "Will you help me repell this fool Water Serpents from my cave?"
 msgstr ""
 
-#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, id=Anna}, id=Zeke}, id=Ardella}, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
+#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #: Eliador/scenarios/02e_eliador-balas.cfg:132
 msgid "Beach of Balas"
 msgstr ""
 
-#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, id=Anna}, id=Zeke}, id=Ardella}, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
+#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #: Eliador/scenarios/02e_eliador-balas.cfg:137
 msgid ""
 "Finaly we faced Bill and his men, in an desparate atempt to free Zilead."
 msgstr ""
 
-#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, id=Anna}, id=Zeke}, id=Ardella}, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
+#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #: Eliador/scenarios/02e_eliador-balas.cfg:158
 msgid "Duelists"
 msgstr ""
 
-#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, id=Anna}, id=Zeke}, id=Ardella}, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
+#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #: Eliador/scenarios/02e_eliador-balas.cfg:163
 msgid "Prisoners"
 msgstr ""
 
-#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, id=Anna}, id=Zeke}, id=Ardella}, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
+#. [scenario]: id=eliador-balas, (id=Anna, (id=Zeke, (id=Ardella, (id=Balthor, (id=Brella, (id=Anna, (id=Ardella, (id=Zeke, (id=Ardella
 #: Eliador/scenarios/02e_eliador-balas.cfg:169
 msgid "Rescued Prisoners"
 msgstr ""
@@ -779,36 +779,36 @@ msgid "Hold on tight!"
 msgstr ""
 
 #. [then]: (id=Anna, (id=Zeke, (id=Ardella, (id=Saenvan, (id=Ardella, (id=Saenvan, (id=Anna, (id=Saenvan
-#: Eliador/scenarios/02e_eliador-balas.cfg:592
+#: Eliador/scenarios/02e_eliador-balas.cfg:586
 msgid "Thank you..."
 msgstr ""
 
 #. [then]: (id=Anna, (id=Zeke, (id=Ardella, (id=Saenvan, (id=Ardella, (id=Saenvan, (id=Anna, (id=Saenvan
-#: Eliador/scenarios/02e_eliador-balas.cfg:593
+#: Eliador/scenarios/02e_eliador-balas.cfg:587
 msgid ""
 "These children are looking for their father. His name is Zilead. Have you "
 "seen him?"
 msgstr ""
 
 #. [then]: (id=Anna, (id=Zeke, (id=Ardella, (id=Saenvan, (id=Ardella, (id=Saenvan, (id=Anna, (id=Saenvan
-#: Eliador/scenarios/02e_eliador-balas.cfg:594
+#: Eliador/scenarios/02e_eliador-balas.cfg:588
 msgid "Zilead was taken southward... towards Varad."
 msgstr ""
 
 #. [then]: (id=Anna, (id=Zeke, (id=Ardella, (id=Saenvan, (id=Ardella, (id=Saenvan, (id=Anna, (id=Saenvan
-#: Eliador/scenarios/02e_eliador-balas.cfg:595
+#: Eliador/scenarios/02e_eliador-balas.cfg:589
 msgid ""
 "Can you take us there? We must help the sea creatures of Eliador battle the "
 "incoming galleons."
 msgstr ""
 
 #. [then]: (id=Anna, (id=Zeke, (id=Ardella, (id=Saenvan, (id=Ardella, (id=Saenvan, (id=Anna, (id=Saenvan
-#: Eliador/scenarios/02e_eliador-balas.cfg:596
+#: Eliador/scenarios/02e_eliador-balas.cfg:590
 msgid "Of course. Good luck, all of you!"
 msgstr ""
 
 #. [event]
-#: Eliador/scenarios/02e_eliador-balas.cfg:681
+#: Eliador/scenarios/02e_eliador-balas.cfg:675
 msgid "What have I done? Ardella is dead!"
 msgstr ""
 
@@ -1067,9 +1067,9 @@ msgid "Rescue the habitants of Dol Kelroth"
 msgstr ""
 
 #. [event]
-#. [event]: (id=Anna, (id=Zeke, id=Anna}, id=Zeke}, (id=Ardella) yes}, (id=Anna) yes}, (id=Zeke) yes}, (type=Cuttle Fish, (id=Urian) yes}
+#. [event]: (id=Anna, (id=Zeke, (id=Ardella) yes}, (id=Anna) yes}, (id=Zeke) yes}, (type=Cuttle Fish, (id=Urian) yes}
 #: Eliador/scenarios/02h_eliador-kelroth.cfg:108
-#: Eliador/scenarios/02h_eliador-kelroth.cfg:443
+#: Eliador/scenarios/02h_eliador-kelroth.cfg:438
 msgid "Urian"
 msgstr ""
 
@@ -1748,16 +1748,16 @@ msgid "Zara! Baringa! Echla!"
 msgstr ""
 
 #. [side]
-#: Eliador/utils/utils.cfg:320
+#: Eliador/utils/utils.cfg:269
 msgid "Outlaws"
 msgstr ""
 
 #. [variation]: id=Ardella mounted, race=human, description=
-#: Eliador/utils/utils.cfg:437
+#: Eliador/utils/utils.cfg:386
 msgid "Mounted Ardella"
 msgstr ""
 
 #. [attack]: type=pierce
-#: Eliador/utils/utils.cfg:478
+#: Eliador/utils/utils.cfg:427
 msgid "fangs"
 msgstr ""
