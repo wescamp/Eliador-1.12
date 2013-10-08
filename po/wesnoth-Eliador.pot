@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Eliador-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-28 16:51-0400\n"
+"POT-Creation-Date: 2013-10-08 12:49-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,22 +35,22 @@ msgid "(Intermediate level, RPG/Puzzle, Total of 12 scenarios)"
 msgstr ""
 
 #. [campaign]: id=campaign_eliador
-#: ./Eliador/_main.cfg:36
+#: ./Eliador/_main.cfg:27
 msgid "Skirmisher"
 msgstr ""
 
 #. [campaign]: id=campaign_eliador
-#: ./Eliador/_main.cfg:36
+#: ./Eliador/_main.cfg:27
 msgid "(Easy)"
 msgstr ""
 
 #. [campaign]: id=campaign_eliador
-#: ./Eliador/_main.cfg:38
+#: ./Eliador/_main.cfg:29
 msgid "(Challenging)"
 msgstr ""
 
 #. [campaign]: id=campaign_eliador
-#: ./Eliador/_main.cfg:38
+#: ./Eliador/_main.cfg:29
 msgid "Nightmare"
 msgstr ""
 
@@ -110,7 +110,7 @@ msgstr ""
 #. [part]
 #. [side]
 #. [then]
-#: ./Eliador/scenarios/01_eliador-home.cfg:106 ./Eliador/scenarios/04_eliador-interlude.cfg:56 ./Eliador/scenarios/04_eliador-interlude.cfg:68 ./Eliador/utils/journey.cfg:163 ./Eliador/utils/utils.cfg:272
+#: ./Eliador/scenarios/01_eliador-home.cfg:106 ./Eliador/scenarios/04_eliador-interlude.cfg:56 ./Eliador/scenarios/04_eliador-interlude.cfg:68 ./Eliador/utils/journey.cfg:163 ./Eliador/utils/utils.cfg:270
 msgid "Ardella"
 msgstr ""
 
@@ -1604,17 +1604,17 @@ msgid "Zara! Baringa! Echla!"
 msgstr ""
 
 #. [side]
-#: ./Eliador/utils/utils.cfg:269
+#: ./Eliador/utils/utils.cfg:267
 msgid "Outlaws"
 msgstr ""
 
 #. [variation]: id=Ardella mounted, race=human, description=
-#: ./Eliador/utils/utils.cfg:386
+#: ./Eliador/utils/utils.cfg:384
 msgid "Mounted Ardella"
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./Eliador/utils/utils.cfg:427
+#: ./Eliador/utils/utils.cfg:425
 msgid "fangs"
 msgstr ""
 
