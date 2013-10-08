@@ -1,7 +1,6 @@
 ::CHANGELOG::
 
 v1.0.4
-
 i run wmltools, updaded & rationalized code
 * tweaked gold, carryover, unit levels, ...
 + changed douzens of fake units to unit variations
@@ -21,12 +20,5 @@ i timeline is vague (I assume during Konrad II reign, shortly after EI)
 i the Reversi game may be gamebeaking for who doesnt know it (and realy easy for those that know)
 
 ::STATUS::
-! one bug found: micro_ai:animals is broken
-
-20130213 14:57:08 error ai/actions: Error #1010 (attack_result::E_ATTACKER_AND_DEFENDER_NOT_ADJACENT) in attack by side 3 from location 12,27 to location 13,21 using weapon -1 with aggression 0.4
-> spans in an infinite loop having to kill manually wesnoth
-> with multi-wolfpack (kelroth scenario)
-
-> and rabbits do not work at all
 
 + = Added     - = Removed     ! = Bug     * = Change     i = Info
